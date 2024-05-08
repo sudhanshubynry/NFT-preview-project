@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #0D1A2D;
+    height: 100vh;
+    font-family: cursive;
+    font-weight: 500;
+}
+
+.card-container{
+    background-color: #15273F;
+    max-width:313px;
+    width: 100%;
+    height: 533px;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    box-shadow: 0px 10px 50px rgb(0, 0, 0.3);
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+img {
+    width: 100%;
+    border-radius: 18px;
+}
+
+h3{
+    color: white;
+    margin-top: 10px;
+    /* width: 100%; */
+
+}
+p{
+    color: #7086A2;
+    font-size: 18px;
+}
+
+.images {
+    width: 11px;
+    height: 18px;
+}
+
+.eth{
+    color: #17FBFA;
+}
+.watch{
+    width: 17px;
+    height: 17px;
+}
+
+.three-days{
+    color: #96AED5;
+    /* width: 100%; */
+
+}
+
+#margin{
+    margin-left: 60px;
+}
+
+hr{
+    color: #96AED5;
+    background-color: #96AED5;
+    /* border:1px solid #96AED5; */
+    border: none;
+    height: 1px;
+}
+
+.image-2{
+    width: 10%;
+}
